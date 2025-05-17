@@ -76,6 +76,7 @@ export default function UserList() {
           </div>
         </div>
       </div>
+      
 
       {/* Modal */}
       {selectedUser && (
