@@ -1,7 +1,8 @@
-
-
-
-
+Setup Instructions
+1. **Clone the Repository**
+   git clone https://github.com/agam-ag/Frontend_Assignmrnt
+2.npm install
+3.npm run dev
 
 My Approach
 1. Login Page
