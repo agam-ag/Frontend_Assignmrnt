@@ -16,7 +16,7 @@ export default function UserList() {
   const [selectedUser, setSelectedUser] = useState(null); // modal user
 
   return (
-    <div className="flex min-h-screen bg-gray-100">
+    <div className="flex min-h-screen">
       {/* Sidebar */}
       <div>
         <Sidebar open={sidebarOpen} setOpen={setSidebarOpen} />
@@ -76,7 +76,7 @@ export default function UserList() {
           </div>
         </div>
       </div>
-      
+
 
       {/* Modal */}
       {selectedUser && (

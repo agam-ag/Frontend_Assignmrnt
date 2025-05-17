@@ -31,5 +31,7 @@ Status (Active/Inactive) is color-coded using Tailwind badge styling.
 
 Export button is a placeholder for future enhancement.
 
+Added a popup/modal that appears when clicking on a user entry
+
 Deployment: I have deployed this on vercel.
 Link:frontend-assignmrnt.vercel.app
