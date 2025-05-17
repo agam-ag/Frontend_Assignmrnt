@@ -29,3 +29,6 @@ Displayed using a responsive table with columns: Name, Email, Role, Status.
 Status (Active/Inactive) is color-coded using Tailwind badge styling.
 
 Export button is a placeholder for future enhancement.
+
+Deployment: I have deployed this on vercel.
+Link:frontend-assignmrnt.vercel.app
