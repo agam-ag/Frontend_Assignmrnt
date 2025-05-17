@@ -25,7 +25,7 @@ export default function UserList() {
       {/* Main Content */}
       <div className="flex-1 w-full">
         {/* Topbar */}
-        <div className="sticky top-0 z-10 bg-white shadow md:ml-64 md:p-4">
+        <div className="sticky top-0 z-10 bg-white shadow p-2 md:ml-64 md:p-4">
           <Topbar />
         </div>
 
